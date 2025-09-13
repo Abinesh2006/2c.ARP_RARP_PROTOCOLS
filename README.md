@@ -1,7 +1,7 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
 ```
-Name : Rajalakshmi R
-Reg No : 212223110037
+Name : Abinesh M
+Reg No : 212224040009
 ```
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
