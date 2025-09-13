@@ -1,8 +1,8 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
-'''
+```
 Name : Abinesh M
 Reg No : 212224040009
-'''
+```
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
